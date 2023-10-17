@@ -1,0 +1,11 @@
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\bin\Debug\life.exe.config
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\bin\Debug\life.exe
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\bin\Debug\life.pdb
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.csproj.AssemblyReference.cache
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.Properties.Resources.resources
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.csproj.GenerateResource.cache
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.csproj.CoreCompileInputs.cache
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.exe
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.pdb
+C:\Users\alexl\source\repos\oop-2022-csharp-life-AlexLotnikov\life\life\obj\Debug\life.Form1.resources
